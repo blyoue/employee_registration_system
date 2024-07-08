@@ -1,5 +1,4 @@
 # YOUR PROJECT TITLE
-#### Description:
 
 # Company Staff Registration System
 
