@@ -1,5 +1,4 @@
 # YOUR PROJECT TITLE
-#### Video Demo:  https://youtu.be/akbKzU9ydvA
 #### Description:
 
 # Company Staff Registration System
