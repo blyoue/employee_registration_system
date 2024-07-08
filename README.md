@@ -1,5 +1,3 @@
-# YOUR PROJECT TITLE
-
 # Company Staff Registration System
 
 ## Introduction
